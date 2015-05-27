@@ -2,11 +2,172 @@
 <items version="2" >
 
     <item
-        jar="C:\Users\Ian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\7.3.0\jars\classes.jar"
         jumboMode="false"
         revision="22.0.1"
-        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
-        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-7af9c48311952345e8d6f94dd418f7eae9c7e68d.jar" />
+        sha1="a0ce76dfaccbfbd6c551ed2174280aaabe60fe47">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-339bcd2d6784e2d08a688ee480e92419f40acbb9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3b4ff5c39dace8f3b4ab4cab8191785547a0815f">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-668baf4a0a3e379ebf2b7f93db8dbac6104521f4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3988694bf9d8186ff97ad5cdfa4ed88b5010fe08">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-2f8368ca52b529ade833ab1ec9610765ca730307.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0708ef60917bf94913fe9ef972a655b99462dca7">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-db908aa76c57976fb6db7ce74c2ad39f81824ae4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e35fae1b377c23aa5fd2d309a190c2d0f73d54ec">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-4cbf68781ac924fa326d7ed812e443607a5fb129.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="bb36004beb02b69562cbec9aa7d6a3cf16bf5d1b">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-c3f30d25e62b90ca087e6313fa21ad271451c9be.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5b9f5b0aa8dee788beb63d23832cb29ce771343">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-a42f35054f51f71adffb2fa8139f894c58679f1c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0180d031a7b54dabb93b4af3869468b55dc938bd">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-97ab1dbd7c6e81f56788ff087921b62dec6f8bc0.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\support-annotations-22.0.0-1d512693fe0520918669d2c334a71317e9c2e908.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="565a01f90f1529f73362707c4c185d0623a68782">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-59f9e386f65ee53fc3cd11560a4d170dbb03b239.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c9dea9e85aceb09d95df5e6f7bc8a43fc286068">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-5387eb806f59f09eef0db3ea23f0da92102f2fab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e5bf453b070c1e39297986144960e45afa0fdfad">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-d4d48e0ff212afa2c5fb11d301ee5120a4c4fa4a.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b48d5c51a9a9e329005106b4667f54948de4d4d8">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-4c5d9cda6133b3d8acdd303ee5f271071bb8756b.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="5ea948d825957be6c4358c48422bee60eef2d487">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-1db9f1a102b60e78b6afd9b8e703e0282f633486.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="59652857a825fff0de62166fca1bc9553cc01abb">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-64cd822306900f2a02afa99c419c3b27a89a6592.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7215ac1f2fca947b9415a6ee2a1bf991364aab24">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-e30e27b349b696253ad7f892fab648d8ae72e151.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="fe3e0c6de7cceed888b277487238b6af9a1cc299">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-6c8af751949ea9d9aecca5af1a868f5b5751b269.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-e366132f8b562f2f08092f6ff6b981f19d1b945f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6046e5cdaf799120b7c56a5a061d80e8854c4d34">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-224ff4c26ce0f48ed00ac55965c419bc0cfa5813.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4f4fe3c23776540625f3c2844152a7510fddf9f1">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-0f5badf37f4467121ad54b403b55b0934b3337d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f2f7ec211ce4d244ee97a57523eeb4526dc3cf8a">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-7711a42b5ee6fe3f58ce962c57c4f086dfc34539.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\libs\volley.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\volley-228d62d1c655ae08ea46a9de5a5a4623a789e0c5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\internal_impl-22.0.0-5b84f90779a1108a52356df1e1a1b9e4fe3c3ea3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\7.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b2c07cdb814fe988ad05f7b4d767a841514a5991">
+        <dex dex="C:\Users\Ian\StudioProjects\BikeMeThere\app\build\intermediates\pre-dexed\debug\classes-2590bba60cb7a489cf5ece957a4b412c8bc859fe.jar" />
     </item>
 
 </items>

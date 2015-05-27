@@ -467,6 +467,7 @@ containing a value of this type.
         public static final int accept=0x7f050020;
         public static final int action_settings=0x7f050021;
         public static final int app_name=0x7f050022;
+        public static final int button1=0x7f050023;
         public static final int common_android_wear_notification_needs_update_text=0x7f050000;
         public static final int common_android_wear_update_text=0x7f050001;
         public static final int common_android_wear_update_title=0x7f050002;
@@ -498,14 +499,14 @@ containing a value of this type.
         public static final int common_signin_button_text=0x7f05001c;
         public static final int common_signin_button_text_long=0x7f05001d;
         public static final int commono_google_play_services_api_unavailable_text=0x7f05001e;
-        public static final int create_calendar_message=0x7f050023;
-        public static final int create_calendar_title=0x7f050024;
-        public static final int decline=0x7f050025;
-        public static final int ending_point=0x7f050026;
-        public static final int hello_world=0x7f050027;
-        public static final int starting_point=0x7f050028;
-        public static final int store_picture_message=0x7f050029;
-        public static final int store_picture_title=0x7f05002a;
+        public static final int create_calendar_message=0x7f050024;
+        public static final int create_calendar_title=0x7f050025;
+        public static final int decline=0x7f050026;
+        public static final int ending_point=0x7f050027;
+        public static final int hello_world=0x7f050028;
+        public static final int starting_point=0x7f050029;
+        public static final int store_picture_message=0x7f05002a;
+        public static final int store_picture_title=0x7f05002b;
         public static final int wallet_buy_button_place_holder=0x7f05001f;
     }
     public static final class style {

@@ -6,5 +6,6 @@
     <string name="hello_world">Hello world!</string>
     <string name="starting_point">Starting Point</string>
     <string name="ending_point">Ending Point</string>
+    <string name="button1">Search</string>
 
 </resources>
